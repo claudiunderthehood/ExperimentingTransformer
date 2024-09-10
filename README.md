@@ -67,8 +67,8 @@ The transformer model is implemented following the original architecture propose
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/claudiunderthehood/experimenting_transformer
-   cd experimenting_transformer
+   git clone https://github.com/claudiunderthehood/ExperimentingTransformer
+   cd ExperimentingTransformer
    ```
 
 2. **Install the required dependencies**:
